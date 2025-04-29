@@ -1,0 +1,3 @@
+strw='nepal'
+
+print(strw)

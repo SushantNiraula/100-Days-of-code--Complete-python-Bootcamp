@@ -8,8 +8,8 @@ The plan looks like this.
 
 | Day | Topics | Status | Notes |
 | --- | --- | --- | --- |
-| 1 | Basics (Days 1–5) | Doing |  |
-| 2 | Basics (Days 6–10) | ⬜ Not Started |  |
+| 1 | Basics (Days 1–5) | DoneDone✅ | Learned about all basics. |
+| 2 | Basics (Days 6–10) | Doing |  |
 | 3 | Functions & Turtle (Days 11–14) | ⬜ Not Started |  |
 | 4 | Higher Order Functions (Days 15–17) | ⬜ Not Started |  |
 | 5 | Turtle Graphics (Days 18–20) | ⬜ Not Started |  |
