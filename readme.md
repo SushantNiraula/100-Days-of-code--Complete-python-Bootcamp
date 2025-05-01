@@ -10,7 +10,7 @@ The plan looks like this.
 | --- | --- | --- | --- |
 | 1 | Basics (Days 1–5) | DoneDone✅ | Learned about all basics. |
 | 2 | Basics (Days 6–10) | Done ✅ | Learned a lot see you in capstone project. |
-| 3 | Functions & Turtle (Days 11–14) | ⬜ Not Started |  |
+| 3 | Functions & Turtle (Days 11–14) | Done ✅ | Done few project's which were amazing.  |
 | 4 | Higher Order Functions (Days 15–17) | ⬜ Not Started |  |
 | 5 | Turtle Graphics (Days 18–20) | ⬜ Not Started |  |
 | 6 | OOP Basics (Days 21–23) | ⬜ Not Started |  |
