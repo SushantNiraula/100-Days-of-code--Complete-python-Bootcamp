@@ -11,9 +11,9 @@ The plan looks like this.
 | 1 | Basics (Days 1–5) | DoneDone✅ | Learned about all basics. |
 | 2 | Basics (Days 6–10) | Done ✅ | Learned a lot see you in capstone project. |
 | 3 | Functions & Turtle (Days 11–14) | Done ✅ | Done few project's which were amazing.  |
-| 4 | Higher Order Functions (Days 15–17) | ⬜ Not Started |  |
-| 5 | Turtle Graphics (Days 18–20) | ⬜ Not Started |  |
-| 6 | OOP Basics (Days 21–23) | ⬜ Not Started |  |
+| 4 | Higher Order Functions (Days 15–17) | Done ✅ | Done easily |
+| 5 | Turtle Graphics + snake game (Days 18–20) | Done ✅ | Took much more time then expected. |
+| 6 | Snake game + pong + capstone (Days 21–23) | Doing |  |
 | 7 | OOP + Projects (Days 24–25) | ⬜ Not Started |  |
 | 8 | GUI Start (Days 26–28) | ⬜ Not Started |  |
 | 9 | Tkinter Widgets (Days 29–31) | ⬜ Not Started |  |
