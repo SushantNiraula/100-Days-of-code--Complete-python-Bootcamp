@@ -6,55 +6,58 @@ The plan looks like this.
 
 # 📅 Daily Tracker Table
 
-| Day | Topics | Status | Notes |
-| --- | --- | --- | --- |
-| 1 | Basics (Days 1–5) | DoneDone✅ | Learned about all basics. |
-| 2 | Basics (Days 6–10) | Done ✅ | Learned a lot see you in capstone project. |
-| 3 | Functions & Turtle (Days 11–14) | Done ✅ | Done few project's which were amazing.  |
-| 4 | Higher Order Functions (Days 15–17) | Done ✅ | Done easily |
-| 5 | Turtle Graphics + snake game (Days 18–20) | Done ✅ | Took much more time then expected. |
-| 6 | Snake game + pong + capstone (Days 21–23) | Doing |  |
-| 7 | OOP + Projects (Days 24–25) | ⬜ Not Started |  |
-| 8 | GUI Start (Days 26–28) | ⬜ Not Started |  |
-| 9 | Tkinter Widgets (Days 29–31) | ⬜ Not Started |  |
-| 10 | Advanced Tkinter (Days 32–34) | ⬜ Not Started |  |
-| 11 | APIs and JSON (Days 35–36) | ⬜ Not Started |  |
-| 12 | API Projects (Days 37–39) | ⬜ Not Started |  |
-| 13 | Authentication and Envs (Days 40–41) | ⬜ Not Started |  |
-| 14 | Web Scraping Basics (Days 42–43) | ⬜ Not Started |  |
-| 15 | Advanced Scraping (Days 44–45) | ⬜ Not Started |  |
-| 16 | Selenium Basics (Days 46–47) | ⬜ Not Started |  |
-| 17 | Advanced Selenium (Days 48–49) | ⬜ Not Started |  |
-| 18 | Email Automation (Day 50) | ⬜ Not Started |  |
-| 19 | Job Bot (Days 51–52) | ⬜ Not Started |  |
-| 20 | Birthday Wisher (Days 53–54) | ⬜ Not Started |  |
-| 21 | Flask Basics (Days 55–56) | ⬜ Not Started |  |
-| 22 | HTML/CSS Basics (Days 57–58) | ⬜ Not Started |  |
-| 23 | Jinja2 Templates (Days 59–60) | ⬜ Not Started |  |
-| 24 | WTForms (Days 61–62) | ⬜ Not Started |  |
-| 25 | Flask Databases (Days 63–64) | ⬜ Not Started |  |
-| 26 | Blog Project (Days 65–66) | ⬜ Not Started |  |
-| 27 | Auth in Flask (Days 67–68) | ⬜ Not Started |  |
-| 28 | Email Auth App (Day 69) | ⬜ Not Started |  |
-| 29 | Deployment Basics (Days 70–71) | ⬜ Not Started |  |
-| 30 | Final WebApp Improvements (Day 72) | ⬜ Not Started |  |
-| 31 | Pandas Basics (Day 73) | ⬜ Not Started |  |
-| 32 | Pandas Intermediate (Day 74) | ⬜ Not Started |  |
-| 33 | Data Cleaning (Day 75) | ⬜ Not Started |  |
-| 34 | Numpy Projects (Day 76) | ⬜ Not Started |  |
-| 35 | Matplotlib Visualizations (Day 77) | ⬜ Not Started |  |
-| 36 | Seaborn Visualizations (Day 78) | ⬜ Not Started |  |
-| 37 | EDA Project (Day 79) | ⬜ Not Started |  |
-| 38 | ML Intro (Day 80) | ⬜ Not Started |  |
-| 39 | Simple Linear Regression (Day 81) | ⬜ Not Started |  |
-| 40 | Multiple Regression (Day 82) | ⬜ Not Started |  |
-| 41 | Classification Projects (Day 83) | ⬜ Not Started |  |
-| 42 | Build Classifier (Day 84) | ⬜ Not Started |  |
-| 43 | Model Evaluation (Day 85) | ⬜ Not Started |  |
-| 44 | Hyperparameter Tuning (Day 86) | ⬜ Not Started |  |
-| 45 | ML Final Project (Day 87) | ⬜ Not Started |  |
-| 46 | ML Deployment (Day 88) | ⬜ Not Started |  |
-| 47 | Capstone Planning (Day 89) | ⬜ Not Started |  |
-| 48 | Capstone Build (Days 90–91) | ⬜ Not Started |  |
-| 49 | Capstone Testing (Days 92–93) | ⬜ Not Started |  |
-| 50 | Capstone Final Touches (Days 94–100) | ⬜ Not Started |  |
+| 📅 Day | 📚 Official Days (Angela Yu) | 🧠 Topics / Projects                                      | ✅ Status       | 📝 Notes                                    |
+| ------ | ---------------------------- | --------------------------------------------------------- | -------------- | ------------------------------------------- |
+| 1      | Days 1–5                     | Variables, Data Types, Control Flow, Randomisation, Loops | ✅ Done         | Learned about all basics.                   |
+| 2      | Days 6–10                    | Functions, Karel, Hangman, Caesar Cipher, Dictionaries    | ✅ Done         | Learned a lot, see you in capstone project. |
+| 3      | Days 11–14                   | Blackjack, Number Guessing, Debugging, Higher Lower       | ✅ Done         | Done few projects which were amazing.       |
+| 4      | Days 15–17                   | Coffee Machine, OOP Concepts, Quiz Project                | ✅ Done         | Done easily                                 |
+| 5      | Days 18–20                   | Turtle GUI, Hirst Painting, Snake Game Part 1             | ✅ Done         | Took more time than expected.               |
+| 6      | Days 21–23                   | Snake Game Part 2, Pong, Turtle Crossing                  | 🟡 In Progress | Done till Day 22                            |
+| 7      | Days 24–25                   | Files, Directories, CSV & Pandas                          | ⬜ Not Started  | —                                           |
+| 8      | Days 26–28                   | List Comprehension, NATO Alphabet, Tkinter GUI Start      | ⬜ Not Started  | —                                           |
+| 9      | Days 29–31                   | Tkinter Widgets, Errors, Flash Card Capstone              | ⬜ Not Started  | —                                           |
+| 10     | Days 32–34                   | Emails, Dates, APIs, GUI Quiz                             | ⬜ Not Started  | —                                           |
+| 11     | Days 35–36                   | Authentication, Environment Variables, SMS Alerts         | ⬜ Not Started  | —                                           |
+| 12     | Days 37–39                   | API Projects - Habit Tracker, Exercise Tracker, Flights   | ⬜ Not Started  | —                                           |
+| 13     | Days 40–41                   | Flight Club Capstone, Intro to HTML                       | ⬜ Not Started  | —                                           |
+| 14     | Days 42–43                   | Intermediate HTML, Forms, Intro to CSS                    | ⬜ Not Started  | —                                           |
+| 15     | Days 44–45                   | Intermediate CSS, Beautiful Soup Scraping                 | ⬜ Not Started  | —                                           |
+| 16     | Days 46–47                   | Spotify Project, Amazon Price Tracker                     | ⬜ Not Started  | —                                           |
+| 17     | Days 48–49                   | Selenium Bots - Cookie Clicker, LinkedIn Bot              | ⬜ Not Started  | —                                           |
+| 18     | Day 50                       | Tinder Swiper Bot                                         | ⬜ Not Started  | —                                           |
+| 19     | Days 51–52                   | Twitter Speed Bot, Instagram Follower Bot                 | ⬜ Not Started  | —                                           |
+| 20     | Days 53–54                   | Zillow Rental Scraper, Flask Quickstart                   | ⬜ Not Started  | —                                           |
+| 21     | Days 55–56                   | Flask Higher Lower, Static Files & Templates              | ⬜ Not Started  | —                                           |
+| 22     | Days 57–58                   | Jinja Templating, Bootstrap with Flask                    | ⬜ Not Started  | —                                           |
+| 23     | Days 59–60                   | Blog Styling, Flask Forms                                 | ⬜ Not Started  | —                                           |
+| 24     | Days 61–62                   | WTForms, Coffee & Wi-Fi App                               | ⬜ Not Started  | —                                           |
+| 25     | Days 63–64                   | SQLite & SQLAlchemy, Top 10 Movies                        | ⬜ Not Started  | —                                           |
+| 26     | Days 65–66                   | Web Design Principles, Cafe API                           | ⬜ Not Started  | —                                           |
+| 27     | Days 67–68                   | RESTful Blog, Flask Auth                                  | ⬜ Not Started  | —                                           |
+| 28     | Day 69                       | Adding Users to Blog                                      | ⬜ Not Started  | —                                           |
+| 29     | Days 70–71                   | Heroku Deployment, Salary vs Major                        | ⬜ Not Started  | —                                           |
+| 30     | Day 72                       | Plotting Programming Languages with Matplotlib            | ⬜ Not Started  | —                                           |
+| 31     | Day 73                       | LEGO Dataset Analysis with Pandas                         | ⬜ Not Started  | —                                           |
+| 32     | Day 74                       | Google Trends, Time Series                                | ⬜ Not Started  | —                                           |
+| 33     | Day 75                       | Plotly Charts, Android Store Analysis                     | ⬜ Not Started  | —                                           |
+| 34     | Day 76                       | NumPy Arrays & Computation                                | ⬜ Not Started  | —                                           |
+| 35     | Day 77                       | Seaborn & Linear Regression                               | ⬜ Not Started  | —                                           |
+| 36     | Day 78                       | Nobel Prize Analysis                                      | ⬜ Not Started  | —                                           |
+| 37     | Day 79                       | t-Tests & Handwashing Story                               | ⬜ Not Started  | —                                           |
+| 38     | Day 80                       | ML Capstone - House Price Prediction                      | ⬜ Not Started  | —                                           |
+| 39     | Day 81                       | Portfolio - Morse Code Scripter                           | ⬜ Not Started  | —                                           |
+| 40     | Day 82                       | Portfolio - Flask Landing Page                            | ⬜ Not Started  | —                                           |
+| 41     | Day 83                       | Portfolio - Tic Tac Toe Script                            | ⬜ Not Started  | —                                           |
+| 42     | Day 84                       | Build a Classifier                                        | ⬜ Not Started  | —                                           |
+| 43     | Day 85                       | Model Evaluation                                          | ⬜ Not Started  | —                                           |
+| 44     | Day 86                       | Hyperparameter Tuning                                     | ⬜ Not Started  | —                                           |
+| 45     | Day 87                       | Final ML Project                                          | ⬜ Not Started  | —                                           |
+| 46     | Day 88                       | Deploy ML Model                                           | ⬜ Not Started  | —                                           |
+| 47     | Day 89                       | Final Capstone Planning                                   | ⬜ Not Started  | —                                           |
+| 48     | Days 90–91                   | Final Capstone Build                                      | ⬜ Not Started  | —                                           |
+| 49     | Days 92–93                   | Capstone Testing                                          | ⬜ Not Started  | —                                           |
+| 50     | Days 94–100                  | Capstone Final Touches & Polish                           | ⬜ Not Started  | —                                           |
+
+---
+
