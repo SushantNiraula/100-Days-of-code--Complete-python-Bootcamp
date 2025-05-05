@@ -1,4 +1,4 @@
-#TODO: Create a letter using starting_letter.txt
+
 
 def open_letter():
     with open('./Input/Letters/starting_letter.txt', 'r') as file:
