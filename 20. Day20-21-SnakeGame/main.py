@@ -30,14 +30,16 @@ while is_game_on:
     ## detect boundary crossing
     if game.segments[0].xcor()>280 or game.segments[0].ycor()>280 \
         or game.segments[0].xcor()< -280 or game.segments[0].ycor() < -280:
-        scoreboard.game_over()
-        is_game_on=False
+        scoreboard.reset()
+        game.reset()
+
 
     ## detect collision with tail
     for segment in game.segments[1:]:
         if game.segments[0].distance(segment) <10:
-            scoreboard.game_over()
-            is_game_on=False
+            scoreboard.reset()
+            game.reset()
+
 
 
 
