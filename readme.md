@@ -13,8 +13,8 @@ The plan looks like this.
 | 3      | Days 11–14                   | Blackjack, Number Guessing, Debugging, Higher Lower       | ✅ Done         | Done few projects which were amazing.       |
 | 4      | Days 15–17                   | Coffee Machine, OOP Concepts, Quiz Project                | ✅ Done         | Done easily                                 |
 | 5      | Days 18–20                   | Turtle GUI, Hirst Painting, Snake Game Part 1             | ✅ Done         | Took more time than expected.               |
-| 6      | Days 21–23                   | Snake Game Part 2, Pong, Turtle Crossing                  | 🟡 In Progress | Done till Day 22                            |
-| 7      | Days 24–25                   | Files, Directories, CSV & Pandas                          | ⬜ Not Started  | —                                           |
+| 6      | Days 21–23                   | Snake Game Part 2, Pong, Turtle Crossing                  | ✅ Done  | DOne and has fun                             |
+| 7      | Days 24–25                   | Files, Directories, CSV & Pandas                          |  ✅ Done | DOne and starting day 8—                                           |
 | 8      | Days 26–28                   | List Comprehension, NATO Alphabet, Tkinter GUI Start      | ⬜ Not Started  | —                                           |
 | 9      | Days 29–31                   | Tkinter Widgets, Errors, Flash Card Capstone              | ⬜ Not Started  | —                                           |
 | 10     | Days 32–34                   | Emails, Dates, APIs, GUI Quiz                             | ⬜ Not Started  | —                                           |
