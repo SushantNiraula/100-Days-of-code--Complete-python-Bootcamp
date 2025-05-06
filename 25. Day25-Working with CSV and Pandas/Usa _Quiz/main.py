@@ -16,6 +16,8 @@ while game_on:
     answer_state=screen.textinput(title=f'{score}/50 Guess the State',prompt='What\'s another state\'s name?')
     if answer_state == None:
         game_on=False
+    if answer_state.title()=='Exit':
+        missing_states=[state for state in all_states if state not in guessed_states]
     if answer_state.title() in all_states:
         guessed_states.append(answer_state.title())
         state_data=data[data['state']==answer_state.title()]
