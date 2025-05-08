@@ -15,8 +15,8 @@ The plan looks like this.
 | 5      | Days 18–20                   | Turtle GUI, Hirst Painting, Snake Game Part 1             | ✅ Done         | Took more time than expected.                             |
 | 6      | Days 21–23                   | Snake Game Part 2, Pong, Turtle Crossing                  | ✅ Done         | DOne and has fun                                          |
 | 7      | Days 24–25                   | Files, Directories, CSV & Pandas                          | ✅ Done         | Improved the snake game and learned to get hold of files. |
-| 8      | Days 26–28                   | List Comprehension, NATO Alphabet, Tkinter GUI Start      | Day 26 is done | Day 27,28 remain for tommorow                             |
-| 9      | Days 29–31                   | Tkinter Widgets, Errors, Flash Card Capstone              | ⬜ Not Started  | —                                                         |
+| 8      | Days 26–28                   | List Comprehension, NATO Alphabet, Tkinter GUI Start      | ✅ Done  | Day 27,28 remain for tommorow                             |
+| 9      | Days 29–31                   | Tkinter Widgets, Errors, Flash Card Capstone              | ✅ Done  | —                                                         |
 | 10     | Days 32–34                   | Emails, Dates, APIs, GUI Quiz                             | ⬜ Not Started  | —                                                         |
 | 11     | Days 35–36                   | Authentication, Environment Variables, SMS Alerts         | ⬜ Not Started  | —                                                         |
 | 12     | Days 37–39                   | API Projects - Habit Tracker, Exercise Tracker, Flights   | ⬜ Not Started  | —                                                         |
