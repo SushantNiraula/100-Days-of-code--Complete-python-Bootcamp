@@ -29,6 +29,6 @@ for i in range(len(data['list'])):
 if will_rain:
     message = client.messages.create(
     body="It will rain today. Don't forget to take your umbrella.",
-    from_='+19789972506',
-    to='+9779824312346')
+    from_='+kjkd',
+    to='+kkjfeoj')
     print(message.status)
