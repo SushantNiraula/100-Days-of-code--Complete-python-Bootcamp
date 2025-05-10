@@ -1,0 +1,173 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 4,
+    "list": [
+        {
+            "dt": 1746889200,
+            "main": {
+                "temp": 26.66,
+                "feels_like": 26.66,
+                "temp_min": 23.71,
+                "temp_max": 26.66,
+                "pressure": 1007,
+                "sea_level": 1007,
+                "grnd_level": 850,
+                "humidity": 39,
+                "temp_kf": 2.95
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03n"
+                }
+            ],
+            "clouds": {
+                "all": 44
+            },
+            "wind": {
+                "speed": 1.39,
+                "deg": 12,
+                "gust": 1.43
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-05-10 15:00:00"
+        },
+        {
+            "dt": 1746900000,
+            "main": {
+                "temp": 24.46,
+                "feels_like": 24.14,
+                "temp_min": 22.62,
+                "temp_max": 24.46,
+                "pressure": 1008,
+                "sea_level": 1008,
+                "grnd_level": 849,
+                "humidity": 45,
+                "temp_kf": 1.84
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "clouds": {
+                "all": 69
+            },
+            "wind": {
+                "speed": 0.12,
+                "deg": 35,
+                "gust": 0.54
+            },
+            "visibility": 10000,
+            "pop": 0.2,
+            "rain": {
+                "3h": 0.21
+            },
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-05-10 18:00:00"
+        },
+        {
+            "dt": 1746910800,
+            "main": {
+                "temp": 19.66,
+                "feels_like": 19.2,
+                "temp_min": 19.66,
+                "temp_max": 19.66,
+                "pressure": 1009,
+                "sea_level": 1009,
+                "grnd_level": 848,
+                "humidity": 58,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "clouds": {
+                "all": 26
+            },
+            "wind": {
+                "speed": 0.77,
+                "deg": 127,
+                "gust": 1.11
+            },
+            "visibility": 10000,
+            "pop": 0.2,
+            "rain": {
+                "3h": 0.11
+            },
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-05-10 21:00:00"
+        },
+        {
+            "dt": 1746921600,
+            "main": {
+                "temp": 19.93,
+                "feels_like": 19.47,
+                "temp_min": 19.93,
+                "temp_max": 19.93,
+                "pressure": 1010,
+                "sea_level": 1010,
+                "grnd_level": 849,
+                "humidity": 57,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": {
+                "all": 23
+            },
+            "wind": {
+                "speed": 1.15,
+                "deg": 90,
+                "gust": 1.48
+            },
+            "visibility": 10000,
+            "pop": 0.23,
+            "rain": {
+                "3h": 0.25
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-05-11 00:00:00"
+        }
+    ],
+    "city": {
+        "id": 1282682,
+        "name": "Thapathali",
+        "coord": {
+            "lat": 27.712,
+            "lon": 85.313
+        },
+        "country": "NP",
+        "population": 0,
+        "timezone": 20700,
+        "sunrise": 1746833568,
+        "sunset": 1746881854
+    }
+}
