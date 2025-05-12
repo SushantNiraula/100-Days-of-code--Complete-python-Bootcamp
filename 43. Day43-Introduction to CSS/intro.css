@@ -1,0 +1,16 @@
+/* CSS stands for Cascading Style Sheet*/
+/* CSS is used to style HTML elements */
+/* CSS is used to change the color, font, size, and layout of HTML elements */
+/* 3 ways to add CSS to HTML */
+/* 1. Inline CSS - using the style attribute in HTML elements */
+/* 2. Internal CSS - using the <style> tag in the <head> section of HTML */
+/* 3. External CSS - using a separate CSS file and linking it to the HTML file */
+li{
+    font-style: italic;
+    font-size: large;
+    color:aliceblue
+}
+h1{
+    color:white;
+    
+}
